@@ -1,0 +1,38 @@
+[33mcommit 604a8095b42112f2e4914dc4685dc53019bc5eb0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mare <rossomsol@gmail.com>
+Date:   Wed Jun 29 19:37:27 2022 -0300
+
+    learning html first class
+
+[33mcommit 8b77e21d4ea75a65dbd3630ea48d451a5e852b82[m
+Merge: 68db396 436c569
+Author: rossomsol <108156904+rossomsol@users.noreply.github.com>
+Date:   Tue Jun 28 18:28:32 2022 -0300
+
+    Merge pull request #1 from rossomsol/newone
+    
+    trying the pull request
+
+[33mcommit 436c569d46df2e7c3ce8fe641a8e01053b52bd90[m[33m ([m[1;31morigin/newone[m[33m)[m
+Author: mare <rossomsol@gmail.com>
+Date:   Tue Jun 28 17:50:46 2022 -0300
+
+    trying the pull request
+
+[33mcommit 68db3963b549c868f9b406d5064de34d4b1e7504[m
+Author: mare <rossomsol@gmail.com>
+Date:   Tue Jun 28 17:12:42 2022 -0300
+
+    mergeing worked ok
+
+[33mcommit 91d28efcb5b6cca0931437b1cd578e505fac04e1[m
+Author: mare <rossomsol@gmail.com>
+Date:   Mon Jun 27 19:20:49 2022 -0300
+
+    first java added for try merge
+
+[33mcommit 37427d18334da88994a613eac540f7e648823557[m
+Author: mare <rossomsol@gmail.com>
+Date:   Mon Jun 27 18:49:27 2022 -0300
+
+    first commit
